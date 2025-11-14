@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{记忆开篇：武汉公交的传说}{3}{0}{1}
+\beamer@sectionintoc {2}{核心对比：公交"退"与地铁"兴"}{4}{0}{2}
+\beamer@sectionintoc {3}{时代逻辑：变迁背后的密码}{11}{0}{3}
+\beamer@sectionintoc {4}{我的共鸣：成长与交通同频}{12}{0}{4}
+\beamer@sectionintoc {5}{总结：交通里的新时代}{13}{0}{5}
